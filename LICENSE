@@ -1,0 +1,118 @@
+PANG-NAV ACADEMIC AND RESEARCH LICENSE
+Version 1.0 — Draft for rights-holder and legal review
+
+IMPORTANT: This draft does not become an authorized license grant until approved
+and issued by the person(s) or institution(s) holding the relevant rights.
+
+Copyright (c) [YEAR(S)], [IDENTIFY ALL APPLICABLE COPYRIGHT HOLDER(S)].
+All rights reserved except as expressly licensed below.
+
+1. DEFINITIONS
+
+"Software" means the PANG-NAV MATLAB source code and accompanying materials
+expressly distributed under this License, excluding third-party materials that
+carry separate terms.
+
+"Licensor" means the copyright holder(s) authorized to license the Software.
+
+"You" means the individual or legal entity exercising rights under this License.
+
+"Non-Commercial Academic and Research Purposes" means teaching, learning,
+academic study, and scientific research that are not undertaken primarily for
+commercial advantage or monetary compensation. Use in commercial product or
+service development, paid consulting, commercial operational deployment, or
+research performed under a commercial contract is not covered by this grant,
+even if conducted at a university, unless the Licensor gives written permission.
+
+2. PERMITTED USE
+
+Subject to compliance with this License, the Licensor grants You a worldwide,
+non-exclusive, royalty-free, non-transferable permission to download, install,
+run, study, and modify the Software solely for Non-Commercial Academic and
+Research Purposes. You may make copies reasonably necessary for those purposes
+within Your own organization or research team, provided access is limited to
+persons bound by these terms and all notices are retained. This permission does
+not authorize public distribution or transfer to third parties.
+
+3. RESTRICTIONS
+
+Without prior written authorization from the Licensor, You must not:
+(a) use the Software or modifications for commercial purposes;
+(b) redistribute, publish, sublicense, sell, or otherwise make available the
+    Software, in whole or in part, to third parties, including by uploading it
+    to a public repository;
+(c) redistribute or publish modified versions or derivative works containing
+    any part of the Software; or
+(d) remove or alter copyright, attribution, or license notices.
+
+You may publish scientific findings and descriptions of Your methods, provided
+that such publication does not disclose or distribute the Software or portions
+of its source code beyond what is permitted by applicable law. Independently
+written code that does not incorporate protected portions of the Software is
+not restricted by this License.
+
+4. ATTRIBUTION AND SCIENTIFIC CITATION
+
+In research outputs, articles, theses, presentations, or reports materially
+based on use of the Software, You must acknowledge PANG-NAV and cite, where
+bibliographically appropriate:
+
+Angrisano, A., Gaglione, S., Crocetto, N., and Vultaggio, M. (2020).
+"PANG-NAV: a tool for processing GNSS measurements in SPP, including RAIM
+functionality." GPS Solutions, 24, Article 19.
+https://doi.org/10.1007/s10291-019-0935-y
+
+You must retain existing copyright and authorship notices in all permitted
+copies and modifications. Citation does not substitute for permission to
+redistribute or to use the Software commercially.
+
+5. REQUESTS FOR ADDITIONAL PERMISSION
+
+Requests for commercial use, third-party redistribution, or publication of
+modified versions should be sent to both:
+
+Antonio Angrisano — antonio.angrisano@unime.it
+Salvatore Gaglione — salvatore.gaglione@uniparthenope.it
+
+These addresses are permission-request contacts; their listing does not, by
+itself, establish ownership or authority to grant permission. Any additional
+permission is effective only when issued in writing by the authorized Licensor.
+
+6. THIRD-PARTY MATERIALS
+
+This License applies only to materials for which the Licensor has the necessary
+rights. Third-party code, datasets, and other materials may be subject to
+separate licenses, permissions, and attribution requirements. Nothing in this
+License overrides those requirements.
+
+7. NO CERTIFICATION; SAFETY-CRITICAL USE
+
+The Software is a research and educational tool. It has not been represented as
+certified or validated for safety-critical, life-critical, or operational
+navigation applications. You are responsible for independently validating all
+results and for complying with applicable regulatory requirements.
+
+8. DISCLAIMER OF WARRANTIES AND LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED
+"AS IS," WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, AND
+NONINFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE
+LICENSOR AND CONTRIBUTORS SHALL NOT BE LIABLE FOR ANY CLAIM, LOSS, OR DAMAGE
+ARISING FROM USE OF OR INABILITY TO USE THE SOFTWARE, WHETHER IN CONTRACT,
+TORT, OR OTHERWISE.
+
+9. TERMINATION
+
+The permissions granted under this License terminate automatically if You
+materially breach its terms. Upon termination, You must cease using the
+Software and delete copies in Your possession or control, except where
+retention is required by law. Provisions concerning attribution for prior
+publications, disclaimers, and limitations of liability survive termination.
+
+10. NO TRADEMARK LICENSE
+
+No rights are granted to use the names, logos, or trademarks of PANG, the
+authors, or their institutions to imply endorsement.
+
+END OF LICENSE

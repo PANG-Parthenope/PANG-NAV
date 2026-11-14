@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use PANG-NAV, please cite the associated GPS Solutions article."
+title: "PANG-NAV"
+type: software
+authors:
+  - family-names: Angrisano
+    given-names: Antonio
+  - family-names: Gaglione
+    given-names: Salvatore
+  - family-names: Crocetto
+    given-names: Nicola
+  - family-names: Vultaggio
+    given-names: Mario
+references:
+  - type: article
+    title: "PANG-NAV: a tool for processing GNSS measurements in SPP, including RAIM functionality"
+    authors:
+      - family-names: Angrisano
+        given-names: Antonio
+      - family-names: Gaglione
+        given-names: Salvatore
+      - family-names: Crocetto
+        given-names: Nicola
+      - family-names: Vultaggio
+        given-names: Mario
+    journal: GPS Solutions
+    volume: "24"
+    year: 2020
+    doi: 10.1007/s10291-019-0935-y
